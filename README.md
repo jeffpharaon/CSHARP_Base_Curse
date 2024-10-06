@@ -7,7 +7,7 @@
 
 ### 1.1 ЧТО ТАКОЕ C#?
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="30" height="30"/>&nbsp; - это объектно-ориентированный язык программирования, разработанный компанией Microsoft. Он используется для создания широкого спектра приложений, включая:
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; - это объектно-ориентированный язык программирования, разработанный компанией Microsoft. Он используется для создания широкого спектра приложений, включая:
 
 * Десктопные приложения: C# позволяет создавать приложения для операционной системы Windows, используя платформу .NET Framework.
 * Веб-приложения: C# используется для создания веб-приложений с использованием ASP.NET, который позволяет создавать динамические сайты и веб-сервисы.
@@ -27,7 +27,7 @@ C# - это мощный и гибкий язык программировани
 
 ### 1.2 ЧТО ТАКОЕ DOTNET?
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Csharp" alt="Csharp" width="30" height="30"/>&nbsp; — это платформа разработки программного обеспечения, созданная компанией Microsoft. Она предоставляет разработчикам инструменты и библиотеки для создания различных типов приложений, включая веб-приложения, настольные приложения, мобильные приложения и игры. 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; — это платформа разработки программного обеспечения, созданная компанией Microsoft. Она предоставляет разработчикам инструменты и библиотеки для создания различных типов приложений, включая веб-приложения, настольные приложения, мобильные приложения и игры. 
  
 Основные компоненты .NET включают: 
  
