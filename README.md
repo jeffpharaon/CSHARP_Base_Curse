@@ -26,7 +26,7 @@ C# - это мощный и гибкий язык программировани
 
 ### 2. ЧТО ТАКОЕ DOTNET?
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; - .NET (или DotNet) — это платформа разработки программного обеспечения, созданная компанией Microsoft. Она предоставляет разработчикам инструменты и библиотеки для создания различных типов приложений, включая веб-приложения, настольные приложения, мобильные приложения и игры. 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; - .NET (или DotNet) — это платформа разработки программного обеспечения, созданная компанией Microsoft. Она предоставляет разработчикам инструменты и библиотеки для создания различных типов приложений, включая веб-приложения, настольные приложения, мобильные приложения и игры. 
  
 Основные компоненты .NET включают: 
  
