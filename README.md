@@ -43,9 +43,9 @@ C# - это мощный и гибкий язык программировани
 
 ### 2.1 УСТАНОВКА IDE Visual Studio 2022
 
-<img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; - **Visual Studio** это интегрированная среда разработки (IDE), созданная компанией Microsoft. Она предназначена для разработки приложений на различных языках программирования, включая C#, VB.NET, C++, F#, JavaScript и другие. Visual Studio предоставляет разработчикам мощные инструменты для редактирования кода, отладки, тестирования и развертывания приложений. 
+<img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; **Visual Studio** - это интегрированная среда разработки (IDE), созданная компанией Microsoft. Она предназначена для разработки приложений на различных языках программирования, включая C#, VB.NET, C++, F#, JavaScript и другие. Visual Studio предоставляет разработчикам мощные инструменты для редактирования кода, отладки, тестирования и развертывания приложений. 
  
-### Основные функции Visual Studio: 
+#### Основные функции Visual Studio: 
  
 1. **Редактор кода**: Поддерживает подсветку синтаксиса, автозавершение кода, рефакторинг и другие функции, которые упрощают процесс написания кода.  
 2. **Отладка**: Встроенные инструменты для отладки позволяют разработчикам находить и исправлять ошибки в коде. Вы можете устанавливать точки останова, просматривать значения переменных и выполнять код шаг за шагом.   
@@ -58,3 +58,5 @@ C# - это мощный и гибкий язык программировани
 Visual Studio доступна в нескольких версиях, включая бесплатную версию Visual Studio Community, а также платные версии Professional и Enterprise, которые предлагают дополнительные функции и инструменты для командной работы.
 
 **[[ СКАЧАТЬ Visual Studio Community 2022 ]](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)**
+
+#### Настройка Visual Studio:
