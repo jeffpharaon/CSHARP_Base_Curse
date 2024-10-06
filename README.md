@@ -108,6 +108,7 @@ C# Dev Kit
 ![image](https://github.com/user-attachments/assets/f694a8a5-ec75-4af7-b086-65ec20e361f8)  
 IntelliCode for C# Dev Kit
 
+После скачиваем **DOTNET Fraemwork**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Csharp" alt="Csharp" width="25" height="25"/>&nbsp; **[[ СКАЧАТЬ DOTNET ]](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x64-installer)**
 
