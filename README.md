@@ -4,7 +4,7 @@
 ## ОСНОВЫ ЯЗЫКА C# ДЛЯ ИЗУЧЕНИЯ НОВИЧКАМИ
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; - это один
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; - ЭТО ОДИН ИЗ
 </div>
 
 
