@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=851AF7&width=435&lines=C%23+%D0%91%D0%90%D0%97%D0%9E%D0%92%D0%AB%D0%99+%D0%A3%D0%A0%D0%9E%D0%92%D0%95%D0%9D%D0%AC)](https://git.io/typing-svg)  
 ОСНОВЫ ЯЗЫКА C# ДЛЯ ИЗУЧЕНИЯ НОВИЧКАМИ
 
-![](https://komarev.com/ghpvc/?jeffpharaon&abbreviated=true)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ##  🟪 1. ВВЕДЕНИЕ
 СОДЕРЖАНИЕ:  
