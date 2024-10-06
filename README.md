@@ -57,4 +57,4 @@ C# - это мощный и гибкий язык программировани
  
 Visual Studio доступна в нескольких версиях, включая бесплатную версию Visual Studio Community, а также платные версии Professional и Enterprise, которые предлагают дополнительные функции и инструменты для командной работы.
 
-**[СКАЧАТЬ Visual Studio Community 2022](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)**
+**[[СКАЧАТЬ Visual Studio Community 2022]](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)**
