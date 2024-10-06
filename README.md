@@ -4,6 +4,8 @@
 
 ## ОСНОВЫ ЯЗЫКА C# ДЛЯ ИЗУЧЕНИЯ НОВИЧКАМИ
 
+## ВВЕДЕНИЕ
+
 ### 1. ЧТО ТАКОЕ C#?
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; - это объектно-ориентированный язык программирования, разработанный компанией Microsoft. Он используется для создания широкого спектра приложений, включая:
