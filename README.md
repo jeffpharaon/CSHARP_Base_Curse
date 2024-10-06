@@ -1,6 +1,6 @@
 ![20241006_162827](https://github.com/user-attachments/assets/8ff04b11-0789-4b21-ad8b-9639cbcfb7d0)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=851AF7&multiline=true&width=1000&height=100&lines=C%23+%D0%91%D0%90%D0%97%D0%9E%D0%92%D0%AB%D0%99+%D0%A3%D0%A0%D0%9E%D0%92%D0%95%D0%9D%D0%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=851AF7&multiline=true&width=1000&height=70&lines=C%23+%D0%91%D0%90%D0%97%D0%9E%D0%92%D0%AB%D0%99+%D0%A3%D0%A0%D0%9E%D0%92%D0%95%D0%9D%D0%AC)](https://git.io/typing-svg)
 *ОСНОВЫ ЯЗЫКА C# ДЛЯ ИЗУЧЕНИЯ НОВИЧКАМИ*
 
 ##  🟪 1. ВВЕДЕНИЕ
