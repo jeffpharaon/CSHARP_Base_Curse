@@ -67,6 +67,6 @@ Visual Studio доступна в нескольких версиях, вклю�
 ![image](https://github.com/user-attachments/assets/d34b4fff-8d74-4372-819e-f7a0a751c3cb)  
 В разделе "Отдельные компоненты" в столбце NET необходимо установить следующие галочки
 
-![image](https://github.com/user-attachments/assets/ee14fff8-cf1a-4965-bb54-768a1babecb8)
+![image](https://github.com/user-attachments/assets/ee14fff8-cf1a-4965-bb54-768a1babecb8)  
 В столбце "Действия разработки" необходимо установить галочку напротив C# и Visual Basic
 
