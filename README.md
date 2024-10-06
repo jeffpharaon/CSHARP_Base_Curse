@@ -88,4 +88,6 @@ Visual Studio Code стал очень популярным среди разр�
 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Csharp" alt="Csharp" width="20" height="20"/>&nbsp; **[[ СКАЧАТЬ Visual Studio Code ]](https://code.visualstudio.com/download)**
 
-Так же для того чтобы писать на 
+Так же для того чтобы писать в Visual Studio Code на C# так же необходимо установить DOTNET Fraemwork с офицального сайта и далее следовать инструкциям.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Csharp" alt="Csharp" width="20" height="20"/>&nbsp; **[[ СКАЧАТЬ DOTNET ]](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x64-installer)**
