@@ -60,3 +60,13 @@ Visual Studio доступна в нескольких версиях, вклю�
 **[[ СКАЧАТЬ Visual Studio Community 2022 ]](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)**
 
 #### Настройка Visual Studio:
+
+![image](https://github.com/user-attachments/assets/2125f2c7-8da0-4ac1-ac08-3840a245babf)  
+Необходимо установить галочку вот здесь
+
+![image](https://github.com/user-attachments/assets/d34b4fff-8d74-4372-819e-f7a0a751c3cb)  
+В разделе "Отдельные компоненты" в столбце NET необходимо установить следующие галочки
+
+![image](https://github.com/user-attachments/assets/ee14fff8-cf1a-4965-bb54-768a1babecb8)
+В столбце "Действия разработки" необходимо установить галочку напротив C# и Visual Basic
+
