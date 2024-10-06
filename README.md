@@ -184,6 +184,9 @@ Console.WriteLine($"My name: {name} " + $"I am {age} years old"); //вывод �
 Console.Write("Hello"); //альтернативный способ вывода в консоль
 ```
 
+![image](https://github.com/user-attachments/assets/f7cc0804-c5c0-46a5-8468-ca6f79b73b74)  
+Ожидаемый вывод в консоль
+
 ### 4.2 CONSOLE READLINE
 
 ### 4.3 ПЕРЕНОС СТРОКИ
