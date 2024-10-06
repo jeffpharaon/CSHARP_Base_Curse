@@ -178,7 +178,7 @@ Console.WriteLine(2024); //вывод числа
 Console.WriteLine("Year: " + 2024); //комбинация вывода типов данных
 
 var name = "Bob"; //переменная хранящая имя
-var age = 20;
+var age = 20; //переменная хранящая возраст
 Console.WriteLine(name); //вывод имени хранящегося в переменной
 Console.WriteLine($"My name: {name} " + $"I am {age} years old"); //вывод имени и возраста хранящихся в переменных внутри текстового вывода
 
