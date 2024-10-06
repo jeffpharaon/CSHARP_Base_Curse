@@ -88,7 +88,26 @@ Visual Studio Code стал очень популярным среди разр�
 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Csharp" alt="Csharp" width="20" height="20"/>&nbsp; **[[ СКАЧАТЬ Visual Studio Code ]](https://code.visualstudio.com/download)**
 
-Так же для того чтобы писать в Visual Studio Code на C# так же необходимо установить DOTNET Fraemwork с офицального сайта и далее следовать инструкциям.
+Так же для того чтобы писать в Visual Studio Code на C# так же необходимо установить DOTNET Fraemwork с офицального сайта, несколько расширений и далее следовать инструкциям.
+
+Чтобы установить расширения C# для этого необходимо в левой панели выбрать Extensions (Вызывается сочетанием клавиш `Crtl + Shift + X`) и скачать следующие расширения:
+1. `.NET Install Tool`
+2. `C#`
+3. `C# Dev Kit`
+4. `IntelliCode for C# Dev Kit`
+
+![image](https://github.com/user-attachments/assets/33a7b3ce-6c22-487e-b81f-21a322603f48)  
+.NET Install Tool  
+
+![image](https://github.com/user-attachments/assets/d9ae8be3-083b-4cc4-9e80-4f94460905e4)  
+C#  
+
+![image](https://github.com/user-attachments/assets/b1a7abcb-bb93-4287-930c-ec67a4ea77ad)  
+C# Dev Kit  
+
+![image](https://github.com/user-attachments/assets/f694a8a5-ec75-4af7-b086-65ec20e361f8)  
+IntelliCode for C# Dev Kit
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Csharp" alt="Csharp" width="25" height="25"/>&nbsp; **[[ СКАЧАТЬ DOTNET ]](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x64-installer)**
 
