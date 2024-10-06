@@ -57,7 +57,7 @@ C# - это мощный и гибкий язык программировани
  
 Visual Studio доступна в нескольких версиях, включая бесплатную версию Visual Studio Community, а также платные версии Professional и Enterprise, которые предлагают дополнительные функции и инструменты для командной работы.
 
-**[[ СКАЧАТЬ Visual Studio Community 2022 ]](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)**
+<img src= "https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; **[[ СКАЧАТЬ Visual Studio Community 2022 ]](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)**
 
 #### Настройка Visual Studio:
 
@@ -85,3 +85,5 @@ Visual Studio доступна в нескольких версиях, вклю�
 7. **Поддержка терминала**: Встроенный терминал позволяет выполнять команды прямо в редакторе, что упрощает рабочий процесс. 
  
 Visual Studio Code стал очень популярным среди разработчиков благодаря своей гибкости, расширяемости и активному сообществу, которое создает множество полезных расширений и тем.
+
+<img src= "https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; **[[ СКАЧАТЬ Visual Studio Code ]](https://code.visualstudio.com/download)**
