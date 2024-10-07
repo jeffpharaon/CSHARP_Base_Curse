@@ -161,7 +161,7 @@ namespace Test
 **СОДЕРЖЕНИЕ:**  
 *4.1 Console Writeline*  
 *4.2 Console Readline*  
-*4.3 Перенос строки*
+*4.3 Перенос строки*  
 *4.4 Итоги*
 
 ### 4.1 CONSOLE WRITELINE
