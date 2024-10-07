@@ -262,5 +262,5 @@ var x; // Ошибка: не может быть определен тип
 ```
 *Код на C#*
 
-![image](https://github.com/user-attachments/assets/cdb0df73-86c8-407e-ba0a-a925d354ace0)
+![image](https://github.com/user-attachments/assets/cdb0df73-86c8-407e-ba0a-a925d354ace0)  
 *Ожидаемый вывод в консоль*
