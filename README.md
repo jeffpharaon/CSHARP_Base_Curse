@@ -228,3 +228,5 @@ Console.WriteLine(text);
 
 ![image](https://github.com/user-attachments/assets/68d3c4da-f358-4ab9-bd5f-ef27f89750fb)  
 *Ожидаемый вывод в консоль*
+
+[[ДОМАШНЕЕ ЗАДАНИЕ ПО ТЕМЕ 4]](https://github.com/jeffpharaon/csarp_base_curse/blob/main/HomeWork/Output-Input.cs)
