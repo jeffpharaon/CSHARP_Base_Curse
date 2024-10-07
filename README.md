@@ -242,7 +242,8 @@ Console.WriteLine(text);
 *5.1 Int и String*  
 *5.2 Var*  
 *5.3 Object*  
-*5.4 Итоги*
+*5.4 Const*  
+*5.5 Итоги*
 
 ### 5.1 ТИПЫ ДАННЫХ INT И STRING
 
