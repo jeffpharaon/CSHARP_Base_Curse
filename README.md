@@ -162,6 +162,7 @@ namespace Test
 *4.1 Console Writeline*  
 *4.2 Console Readline*  
 *4.3 Перенос строки*
+*4.4 Итоги*
 
 ### 4.1 CONSOLE WRITELINE
 
@@ -228,5 +229,11 @@ Console.WriteLine(text);
 
 ![image](https://github.com/user-attachments/assets/68d3c4da-f358-4ab9-bd5f-ef27f89750fb)  
 *Ожидаемый вывод в консоль*
+
+### 4.4 ИТОГИ
+
+1. `Console.Writeline()` - это способ вывода любого типа данных в консоль (чисел, текста, дата-времени и прочего).  
+2. `Console.ReadLine()` - это пользовательский ввод численных или текстовых типов данных в консоль.
+3. В C# символы `\r` и `\n` используются для представления перевода строки.
 
 [[ДОМАШНЕЕ ЗАДАНИЕ ПО ТЕМЕ 4]](https://github.com/jeffpharaon/csarp_base_curse/blob/main/HomeWork/Output-Input.cs)
