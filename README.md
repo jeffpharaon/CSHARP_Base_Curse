@@ -238,7 +238,7 @@ Console.WriteLine(text);
 
 [[ДОМАШНЕЕ ЗАДАНИЕ ПО ТЕМЕ 4]](https://github.com/jeffpharaon/csarp_base_curse/blob/main/HomeWork/Output-Input.cs)
 
-## #️⃣ 5. ПЕРЕМЕННЫЕ И КОНСТАТЫ
+## #️⃣ 5. ПЕРЕМЕННЫЕ И ТИПЫ ДАННЫХ
 **СОДЕРЖАНИЕ:**  
 *5.1 Int и String*  
 *5.2 Var*  
